@@ -1,7 +1,7 @@
 # wordle_solver_russian
 Simple Russian Wordle Solver
 
-Проверено на Python 3.10.8
+Проверено на Python 3.8.10
 Словарь основан на https://github.com/danakt/russian-words
 
 Предполагается запуск после ввода пары слов в игре.
